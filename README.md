@@ -18,8 +18,6 @@ Read the csv file.
 
 ## Program:
 ```
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
@@ -55,14 +53,6 @@ plt.hlines(y=0, xmin=0, xmax=5, linewidth=2)
 plt.legend(loc="upper right")
 plt.title("Residual errors")
 plt.show()
-
-
-
-
-
-
-
-
 ```
 ## Output:
 
